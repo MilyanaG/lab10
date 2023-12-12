@@ -7,4 +7,4 @@ var y = x/2+x/5;;
 } else if (userAgent.indexOf('Firefox') > -1){
 var y = x+5;
 }
-document.write('Результат: ' + y)
+document.write('Результат: ' + y);
